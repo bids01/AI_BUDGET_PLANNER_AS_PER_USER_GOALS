@@ -1,6 +1,3 @@
-# Live Demo
-https://thesamadritasarkar.github.io/AI-Budget-Planner-as-per-User-Goals/
-
 # AI Budget Planner – Goal-Oriented Financial Advisor
 
 A full-stack web application that helps users plan realistic monthly savings
@@ -28,12 +25,3 @@ and a Flask-based backend API.
    `python ai_financial_advisor.py`
 
 3. Open `index.html` in browser
-
-## My Contribution
-- Designed and developed the complete frontend (HTML, CSS, JS)
-- Integrated frontend with Flask backend API
-- Displayed AI-generated financial insights in real time
-
-## What I Learned
-Built an end-to-end ML-powered web application with REST APIs,
-frontend–backend integration, and real-world financial data handling.
